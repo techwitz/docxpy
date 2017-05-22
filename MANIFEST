@@ -5,3 +5,4 @@ setup.py
 bin/docx2txt
 docxpy/__init__.py
 docxpy/docxreader.py
+README.rst
