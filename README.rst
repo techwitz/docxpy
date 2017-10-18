@@ -53,5 +53,5 @@ b. From python:
     doc.process()  # process file
     hyperlinks = doc.data['links']
 
-.. |image0| image:: https://travis-ci.org/badbye/docxpy.svg?branch=master
-.. |PyPI| image:: https://img.shields.io/pypi/pyversions/scrapy-corenlp.svg?style=flat-square
+.. |image0| image:: https://travis-ci.org/badbye/timelog.svg?branch=master
+.. |PyPI| image:: https://img.shields.io/pypi/pyversions/cotimelog.svg?style=flat-square
